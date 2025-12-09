@@ -1,5 +1,5 @@
 ### Hi there 👋🏻
-<img width="2915" height="1599" alt="전체architecture" src="https://github.com/user-attachments/assets/1ce92350-ec0a-41e6-b536-40e9c2aeb618" />
+<img width="2009" height="687" alt="Overall_architecture_white_background" src="https://github.com/user-attachments/assets/79d1e186-2bf8-43d2-bf77-61683998a858" />
 
 ````markdown
 # Diffusion Autoencoders for Cardiac cine MRI
@@ -29,11 +29,7 @@ If you use this codebase, please cite the original DiffAE paper and your corresp
 }
 ````
 
-You should also add a separate citation for your **cardiac cine MRI reconstruction work** that uses this code.
-
----
-
-## 2. Overview
+## MGDCR Multi-View-Guided Diffusion Model for Cardiac Volume Reconstruction
 
 This fork uses DiffAE as a **generative prior** for **cardiac cine MRI** and tackles **3D cardiac volume reconstruction** under sparse through-plane sampling.
 
