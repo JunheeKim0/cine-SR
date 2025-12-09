@@ -1,3 +1,6 @@
+### Hi there 👋🏻
+<img width="2915" height="1599" alt="전체architecture" src="https://github.com/user-attachments/assets/1ce92350-ec0a-41e6-b536-40e9c2aeb618" />
+
 ````markdown
 # Diffusion Autoencoders for Cardiac cine MRI
 
