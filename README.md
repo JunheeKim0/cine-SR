@@ -2,7 +2,7 @@
 <img width="2009" height="500" alt="Overall_architecture_white_background" src="https://github.com/user-attachments/assets/79d1e186-2bf8-43d2-bf77-61683998a858" />
 
 ## MGDCR Multi-View-Guided Diffusion Model for Cardiac Volume Reconstruction
-
+4D cine MRI is essential for cardiac function assessment. It offers continuous observation of ventricular dynamics, but its low through-plane resolution compromises anatomical continuity between slices and degrades the accuracy of essential clinical metrics, such as ventricular boundary delineation and ejection fraction (EF) calculation. We present LAG-DiffAE (Long-Axis Guided Diffusion Autoencoder), which integrates guidance from long-axis (LAX) views into an unsupervised through-plane interpolation framework. A diffusion autoencoder is pre-trained on 400 healthy-subject SAX volumes from UK Biobank and fine-tuned on 230 heart-failure cases. Given adjacent SAX slices, we synthesize intermediate planes by interpolating disentangled semantic and stochastic latents, then refine them via inverse optimization that aligns LAX-plane projections, enforces slice-to-slice continuity, and regularizes deviation from interpolated seeds. The method improves structural consistency and continuity over existing models, as shown by higher Dice and lower HD95, with visualizations confirming chamber-level coherence. This approach provides a practical solution to cine-MRI resolution limits and potential for future volumetric and functional analyses.
 <!--This fork uses DiffAE as a **generative prior** for **cardiac cine MRI** and tackles **3D cardiac volume reconstruction** under sparse through-plane sampling.
 
 * **Stage 1 – Prior learning (DiffAE)**
