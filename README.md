@@ -1,5 +1,5 @@
 ### Hi there 👋🏻
-<img width="2009" height="687" alt="Overall_architecture_white_background" src="https://github.com/user-attachments/assets/79d1e186-2bf8-43d2-bf77-61683998a858" />
+<img width="2009" height="500" alt="Overall_architecture_white_background" src="https://github.com/user-attachments/assets/79d1e186-2bf8-43d2-bf77-61683998a858" />
 
 ## MGDCR Multi-View-Guided Diffusion Model for Cardiac Volume Reconstruction
 
@@ -20,6 +20,7 @@
   * multiple **LAX views** (2ch/3ch/4ch) with a unified alignment protocol,
     perform **LAX-conditioned inverse optimization** in latent space to reconstruct an anatomically plausible 3D cardiac volume that is consistent with the observations. -->
 
+👉 [Project Page: MGDCR – Multi-View-Guided Diffusion Model for Cardiac Volume Reconstruction](https://junheekim0.github.io/Cardiac-Super-Resolution/ )
 ---
 
 ## Installation
