@@ -131,7 +131,7 @@ This fork is derived from the official DiffAE implementation.[^diffae-code]
 * Please check the **original DiffAE repository license** before using or redistributing this code.
 * You are responsible for complying with all dataset licenses, IRB/ethics regulations, and local laws when using cardiac cine MRI data.
 
-We gratefully acknowledge the authors of **Diffusion Autoencoders** for releasing their code and models.
+We gratefully acknowledge the authors of **Diffusion Autoencoders** for releasing their code and models and also ilhae😀.
 
 ---
 
