@@ -1,4 +1,3 @@
-### Hi there 👋🏻
 <img width="2009" height="500" alt="Overall_architecture_white_background" src="https://github.com/user-attachments/assets/79d1e186-2bf8-43d2-bf77-61683998a858" />
 
 ## MGDCR Multi-View-Guided Diffusion Model for Cardiac Volume Reconstruction
